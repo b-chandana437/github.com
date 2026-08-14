@@ -1,2 +1,2 @@
 # github.com
-mimi.project
+mini.project
